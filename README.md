@@ -1,2 +1,2 @@
 # OS
-Operation Systems Exercises 
+Operating Systems Exercises 
