@@ -1,2 +1,3 @@
 # OS
-Operating Systems Exercises 
+Operating Systems Exercises.
+The PDF inside each folder is the assigment. 
